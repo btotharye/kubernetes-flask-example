@@ -4,6 +4,10 @@ This example shows how to build a simple, multi-tier web application using Kuber
 
 We will be using [Minikube](https://github.com/kubernetes/minikube) to install our application locally.
 
+Screenshot of App
+
+![screenshot](https://github.com/btotharye/kubernetes-flask-example/blob/master/screenshot.JPG)
+
 
 The example consists of:
 
